@@ -38,7 +38,3 @@ For the following graphics we use the dataframe with the name "sentences.csv" an
 ![](Images/searches_month_year_youtube.png)
 
 ![](Images/searches_hour_year_youtube.png)
-
-## Search analysis in the Google search engine
-
-In progress...
